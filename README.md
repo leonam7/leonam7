@@ -1,6 +1,6 @@
 ### Hello friend! 👋
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas. Aprendendo sobre HTML + CSS.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="leonam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
